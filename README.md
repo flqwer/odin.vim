@@ -17,6 +17,9 @@
               L:                            ,                                       
 ```
 
+![screenshot](assets/scr.png)
+- *odin in action, editing its own file*
+
 this is a colorscheme that has been sitting in my computer for a little bit, but now revised.<br>
 it is pretty heavily inspired by [blaquemagick](https://github.com/xero/blaquemagick.vim), but it's a bit more colorful than the original.
 
