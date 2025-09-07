@@ -18,7 +18,7 @@ hi Comment        cterm=NONE guifg=#575757 guibg=NONE
 hi Constant       cterm=NONE guifg=#668888 guibg=NONE
 hi Identifier     cterm=NONE guifg=#9988bb guibg=NONE
 hi Statement      cterm=NONE guifg=#666688 guibg=NONE
-hi PreProc        cterm=NONE guifg=#668888 guibg=NONE 
+hi PreProc        cterm=NONE guifg=#668888 guibg=NONE
 hi Type           cterm=NONE guifg=#668866 guibg=NONE
 hi Special        cterm=NONE guifg=#888866 guibg=NONE
 hi Number         cterm=NONE guifg=#9988bb guibg=NONE
@@ -60,5 +60,6 @@ hi StatusLineTermNC cterm=NONE guifg=#bcbcbc guibg=#515151
 hi WildMenu       cterm=NONE guifg=#171717 guibg=#998866
 hi MatchParen     cterm=bold guifg=NONE guibg=#232323
 hi SpecialKey     cterm=NONE guifg=#777777 guibg=#232323
+hi Underlined     cterm=underline guifg=#666688 guibg=NONE
 
 endif
